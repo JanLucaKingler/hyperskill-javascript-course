@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>let a = "4";</code>
+  - text: <code>let a = 4;</code>
+  - text: <code>const a = 4;</code>
+  - text: <code>val a  = 4;</code>
+  - text: <code>let a = '4';</code>
+  - text: <code>const a = '4';</code>
+  - text: <code>const a = "4";</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8187#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Mar 2025 20:52:33 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 4
+local_check: false

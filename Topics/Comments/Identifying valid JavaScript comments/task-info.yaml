@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: 2
+  - text: 3
+  - text: 1
+  - text: 4
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/32205#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Mar 2025 20:45:45 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: false
