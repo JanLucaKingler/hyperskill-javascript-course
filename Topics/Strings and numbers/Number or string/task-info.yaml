@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: /* and */ were used to mark the beginning and end of a multi-line comment.
+  - text: This code displays the string &#x27;80&#x27; on the console.
+  - text: The program results in an error because you can&#x27;t perform arithmetic
+      calculations with different data types
+  - text: This code displays the number 80 on the console because JavaScript treats
+      numeric strings as numbers in mathematical operations (except for addition).
+  - text: The variable numStr is of type number.
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/31426#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 20 Mar 2025 21:07:20 UTC"
+record: -1
+selected_options:
+  - 0
+  - 3
+custom_name: Number or string?
+local_check: false
