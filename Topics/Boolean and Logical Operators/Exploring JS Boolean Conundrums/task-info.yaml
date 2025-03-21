@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "true, true"
+  - text: "false, true"
+  - text: "false, false"
+  - text: "true, false"
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30986#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 21 Mar 2025 19:40:02 UTC"
+record: -1
+selected_options:
+  - 3
+custom_name: Exploring JS Boolean Conundrums!
+local_check: false

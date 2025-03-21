@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: <code>undefined</code>
+  - text: <code>true</code>
+  - text: <code>error</code>
+  - text: <code>false</code>
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8478#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 21 Mar 2025 19:37:13 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: false

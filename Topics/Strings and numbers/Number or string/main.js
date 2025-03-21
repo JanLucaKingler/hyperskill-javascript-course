@@ -1,2 +1,6 @@
-// You can experiment here, it won’t be checked
+console.log(2 * (4 + 5 * (6 + 3)));
+
+
+9
+49
 
